@@ -1,0 +1,5 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap3\obj\Debug\net6.0\Baitap3.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap3\obj\Debug\net6.0\Baitap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap3\obj\Debug\net6.0\Baitap3.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap3\obj\Debug\net6.0\Baitap3.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap3\obj\Debug\net6.0\Baitap3.csproj.CoreCompileInputs.cache
