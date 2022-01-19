@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\bin\Debug\net6.0\Week1.exe
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\bin\Debug\net6.0\Week1.deps.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\bin\Debug\net6.0\Week1.runtimeconfig.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\bin\Debug\net6.0\Week1.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\bin\Debug\net6.0\ref\Week1.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\bin\Debug\net6.0\Week1.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\Week1.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\Week1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\Week1.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\Week1.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\Week1.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\Week1.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\ref\Week1.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\Week1.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week1\obj\Debug\net6.0\Week1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.exe
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.deps.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.runtimeconfig.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\bin\Debug\net6.0\ref\Exercise 3.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\ref\Exercise 3.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.genruntimeconfig.cache

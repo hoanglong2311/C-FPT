@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\bin\Debug\net6.0\Dice.exe
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\bin\Debug\net6.0\Dice.deps.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\bin\Debug\net6.0\Dice.runtimeconfig.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\bin\Debug\net6.0\Dice.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\bin\Debug\net6.0\ref\Dice.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\bin\Debug\net6.0\Dice.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\Dice.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\Dice.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\Dice.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\Dice.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\Dice.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\ref\Dice.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\Dice.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\Week2\Dice\Dice\obj\Debug\net6.0\Dice.genruntimeconfig.cache

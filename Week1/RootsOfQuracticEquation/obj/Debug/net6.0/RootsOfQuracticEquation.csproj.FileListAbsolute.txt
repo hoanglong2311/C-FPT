@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\bin\Debug\net6.0\RootsOfQuracticEquation.exe
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\bin\Debug\net6.0\RootsOfQuracticEquation.deps.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\bin\Debug\net6.0\RootsOfQuracticEquation.runtimeconfig.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\bin\Debug\net6.0\RootsOfQuracticEquation.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\bin\Debug\net6.0\ref\RootsOfQuracticEquation.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\bin\Debug\net6.0\RootsOfQuracticEquation.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\RootsOfQuracticEquation.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\RootsOfQuracticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\RootsOfQuracticEquation.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\RootsOfQuracticEquation.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\RootsOfQuracticEquation.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\RootsOfQuracticEquation.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\ref\RootsOfQuracticEquation.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\RootsOfQuracticEquation.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\RootsOfQuracticEquation\obj\Debug\net6.0\RootsOfQuracticEquation.genruntimeconfig.cache

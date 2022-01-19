@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\bin\Debug\net6.0\PrimeNumber.exe
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\bin\Debug\net6.0\PrimeNumber.deps.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\bin\Debug\net6.0\PrimeNumber.runtimeconfig.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\bin\Debug\net6.0\PrimeNumber.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\bin\Debug\net6.0\ref\PrimeNumber.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\bin\Debug\net6.0\PrimeNumber.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\PrimeNumber.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\ref\PrimeNumber.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\PrimeNumber.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\PrimeNumber\obj\Debug\net6.0\PrimeNumber.genruntimeconfig.cache
