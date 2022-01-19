@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\bin\Debug\net6.0\Baitap1.exe
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\bin\Debug\net6.0\Baitap1.deps.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\bin\Debug\net6.0\Baitap1.runtimeconfig.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\bin\Debug\net6.0\Baitap1.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\bin\Debug\net6.0\ref\Baitap1.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\bin\Debug\net6.0\Baitap1.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\Baitap1.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\Baitap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\Baitap1.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\Baitap1.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\Baitap1.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\Baitap1.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\ref\Baitap1.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\Baitap1.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week2\lab01_9033_OOP\Baitap1\obj\Debug\net6.0\Baitap1.genruntimeconfig.cache
