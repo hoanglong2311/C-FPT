@@ -1,2 +1,2 @@
 # C-FPT
-All code for C# course FPT
+C# programming with FPT
