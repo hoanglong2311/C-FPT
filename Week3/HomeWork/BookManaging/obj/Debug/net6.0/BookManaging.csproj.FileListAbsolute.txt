@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\bin\Debug\net6.0\BookManaging.exe
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\bin\Debug\net6.0\BookManaging.deps.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\bin\Debug\net6.0\BookManaging.runtimeconfig.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\bin\Debug\net6.0\BookManaging.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\bin\Debug\net6.0\ref\BookManaging.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\bin\Debug\net6.0\BookManaging.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\BookManaging.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\BookManaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\BookManaging.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\BookManaging.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\BookManaging.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\BookManaging.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\ref\BookManaging.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\BookManaging.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\BookManaging\obj\Debug\net6.0\BookManaging.genruntimeconfig.cache
