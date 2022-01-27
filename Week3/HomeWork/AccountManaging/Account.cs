@@ -1,5 +1,6 @@
 namespace AccountManaging
 {
+    [Serializable]
     public class Account
     {
         private string accountID;

@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\bin\Debug\net6.0\AccountManaging.exe
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\bin\Debug\net6.0\AccountManaging.deps.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\bin\Debug\net6.0\AccountManaging.runtimeconfig.json
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\bin\Debug\net6.0\AccountManaging.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\bin\Debug\net6.0\ref\AccountManaging.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\bin\Debug\net6.0\AccountManaging.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\AccountManaging.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\AccountManaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\AccountManaging.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\AccountManaging.AssemblyInfo.cs
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\AccountManaging.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\AccountManaging.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\ref\AccountManaging.dll
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\AccountManaging.pdb
+D:\FPT UNIVERSITY\KÌ 5\PRN211\Code\CSharp-FPT\Week3\HomeWork\AccountManaging\obj\Debug\net6.0\AccountManaging.genruntimeconfig.cache
