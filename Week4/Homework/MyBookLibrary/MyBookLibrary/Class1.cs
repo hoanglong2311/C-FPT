@@ -50,7 +50,7 @@ public class BookList
             
             Console.WriteLine("Enter the name of the book: ");
             string name = Console.ReadLine();
-            while (!name.All(char.IsLetterOrDigit))
+            while (IsNullOrEmpty(name))
             {
                 Console.WriteLine("Please enter a valid name: ");
                 name = Console.ReadLine();
@@ -58,7 +58,7 @@ public class BookList
             
             Console.WriteLine("Enter the publisher of the book: ");
             string publisher = Console.ReadLine();
-            while (!publisher.All(char.IsLetterOrDigit))
+            while (IsNullOrEmpty(publisher))
             {
                 Console.WriteLine("Please enter a valid publisher: ");
                 publisher = Console.ReadLine();
@@ -75,7 +75,12 @@ public class BookList
         }
         return ListOfBooks;
     }
-    
+    public static bool IsNullOrEmpty(String str)  // Kiểm tra chuỗi rỗng
+    {
+        if (str == null || str.Trim().Length == 0)
+            return true;
+        return false;
+    }
     
     public void DisplayList()
     {
@@ -141,7 +146,7 @@ public class BookList
                 
                 Console.WriteLine("Enter the name of the book: ");
                 string newName = Console.ReadLine();
-                while (!newName.All(char.IsLetterOrDigit))
+                while (IsNullOrEmpty(newName))
                 {
                     Console.WriteLine("Please enter a valid name: ");
                     newName = Console.ReadLine();
@@ -149,12 +154,11 @@ public class BookList
                 
                 Console.WriteLine("Enter the publisher of the book: ");
                 string newPublisher = Console.ReadLine();
-                while (!newPublisher.All(string.IsLetterOrDigit))
+                while (IsNullOrEmpty(newPublisher))
                 {
                     Console.WriteLine("Please enter a valid publisher: ");
                     newPublisher = Console.ReadLine();
                 }
-                
                 Console.WriteLine("Enter the price of the book: ");
                 float newPrice;
                 while (!float.TryParse(Console.ReadLine(), out newPrice))
