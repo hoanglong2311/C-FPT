@@ -1,0 +1,15 @@
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\bin\Debug\net6.0\Singleton Pattern.exe
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\bin\Debug\net6.0\Singleton Pattern.deps.json
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\bin\Debug\net6.0\Singleton Pattern.runtimeconfig.json
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\bin\Debug\net6.0\Singleton Pattern.dll
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\bin\Debug\net6.0\ref\Singleton Pattern.dll
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\bin\Debug\net6.0\Singleton Pattern.pdb
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\Singleton Pattern.csproj.AssemblyReference.cache
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\Singleton Pattern.AssemblyInfoInputs.cache
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\Singleton Pattern.AssemblyInfo.cs
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\Singleton Pattern.csproj.CoreCompileInputs.cache
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\Singleton Pattern.dll
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\ref\Singleton Pattern.dll
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\Singleton Pattern.pdb
+D:\MY LIFE\FPT UNIVERSITY\KÌ 5\PRN211\code\CSharp-FPT\Week4\AtClass\Singleton Pattern\obj\Debug\net6.0\Singleton Pattern.genruntimeconfig.cache
