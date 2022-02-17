@@ -35,6 +35,14 @@ public class BookList
         return numberOfBooks;
     }
     
+    public static bool IsNullOrEmpty(String str)  // Kiểm tra chuỗi rỗng
+    {
+        if (str == null || str.Trim().Length == 0)
+            return true;
+        return false;
+    }
+
+    
     public List<Book> CreateList()
     {
         int numberOfBooks = GetNumberOfBooks();
@@ -75,12 +83,44 @@ public class BookList
         }
         return ListOfBooks;
     }
-    public static bool IsNullOrEmpty(String str)  // Kiểm tra chuỗi rỗng
+
+    public void AddNewBook()
     {
-        if (str == null || str.Trim().Length == 0)
-            return true;
-        return false;
-    }
+        Console.WriteLine("Enter the ID of the book: ");
+        string id = Console.ReadLine();
+        while (!id.All(char.IsLetterOrDigit))
+        {
+            Console.WriteLine("Please enter a valid ID: ");
+            id = Console.ReadLine();
+        }
+        
+        Console.WriteLine("Enter the name of the book: ");
+        string name = Console.ReadLine();
+        while (IsNullOrEmpty(name))
+        {
+            Console.WriteLine("Please enter a valid name: ");
+            name = Console.ReadLine();
+        }
+        
+        Console.WriteLine("Enter the publisher of the book: ");
+        string publisher = Console.ReadLine();
+        while (IsNullOrEmpty(publisher))
+        {
+            Console.WriteLine("Please enter a valid publisher: ");
+            publisher = Console.ReadLine();
+        }
+        
+        Console.WriteLine("Enter the price of the book: ");
+        float price;
+        while (!float.TryParse(Console.ReadLine(), out price))
+        {
+            Console.WriteLine("Please enter a valid number: ");
+        }
+        Book book = new Book(id, name, publisher, price);
+        ListOfBooks.Add(book);
+    }    
+    
+    
     
     public void DisplayList()
     {
@@ -119,9 +159,10 @@ public class BookList
         string id = Console.ReadLine();
         foreach (Book book in ListOfBooks)
         {
-            if (book.ID == id)
+            if (book.ID.Equals(id))
             {
                 ListOfBooks.Remove(book);
+                break;
             }
         }
     }
