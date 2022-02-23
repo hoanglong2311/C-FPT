@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1bf277b2-3554-4bb2-b57d-5619275be4b1": {
+      "ProjectGuid": "1bf277b2-3554-4bb2-b57d-5619275be4b1",
+      "DisplayName": "WinformWithListBox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
