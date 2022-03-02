@@ -45,7 +45,6 @@
             this.txtNewFriend.Name = "txtNewFriend";
             this.txtNewFriend.Size = new System.Drawing.Size(299, 22);
             this.txtNewFriend.TabIndex = 0;
-            
             // 
             // btnAdd
             // 
@@ -65,7 +64,6 @@
             this.btnAdd5.TabIndex = 2;
             this.btnAdd5.Text = "Add 5";
             this.btnAdd5.UseVisualStyleBackColor = true;
-            
             // 
             // label1
             // 
@@ -74,7 +72,6 @@
             this.label1.Size = new System.Drawing.Size(112, 33);
             this.label1.TabIndex = 3;
             this.label1.Text = "5 friends";
-            
             // 
             // button1
             // 
@@ -102,7 +99,6 @@
             this.button3.TabIndex = 6;
             this.button3.Text = "Clear";
             this.button3.UseVisualStyleBackColor = true;
-            
             // 
             // listBox1
             // 
@@ -117,7 +113,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(802, 458);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
