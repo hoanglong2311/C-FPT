@@ -1,0 +1,17 @@
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\bin\Debug\WinformWithDB.exe.config
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\bin\Debug\WinformWithDB.exe
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\bin\Debug\WinformWithDB.pdb
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.csproj.AssemblyReference.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.csproj.SuggestedBindingRedirects.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.Properties.Resources.resources
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.csproj.GenerateResource.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.csproj.CoreCompileInputs.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.exe
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.pdb
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.Form1.resources
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.frmQueryData.resources
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.frmConnectDB.resources
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.frmProgram.resources
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.frmForm2.resources
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.frmForm3.resources
+D:\MY LIFE\LEARNCODE\Learn Csharp\WinformWithDB\WinformWithDB\obj\Debug\WinformWithDB.frmCRUD.resources

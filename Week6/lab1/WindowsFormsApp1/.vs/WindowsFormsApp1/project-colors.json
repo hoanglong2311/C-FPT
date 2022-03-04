@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f38aff23-50bd-46b0-b134-9e9ba1f683e3": {
+      "ProjectGuid": "f38aff23-50bd-46b0-b134-9e9ba1f683e3",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 0
+    },
+    "a24620ec-3302-4af7-aa97-db8ad1d21389": {
+      "ProjectGuid": "a24620ec-3302-4af7-aa97-db8ad1d21389",
+      "DisplayName": "Winform4",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

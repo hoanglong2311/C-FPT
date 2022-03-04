@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4dcfa0b6-5673-4179-ab1b-061ff3a0d423": {
+      "ProjectGuid": "4dcfa0b6-5673-4179-ab1b-061ff3a0d423",
+      "DisplayName": "WinformWithDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
