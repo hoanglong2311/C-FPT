@@ -65,9 +65,9 @@ namespace DE150191_PRACTICAL.DAL
             {
                 connection.Open();
             }
-            ;
-
-            SqlCommand command = new SqlCommand($"Delete from Book where [BOOK_ID]='{bookID}'", connection);
+            SqlCommand command = new SqlCommand($"Delete from BORROW where[BOOK_ID] = '{bookID}'\n" +
+                                                $"Delete from Book where[BOOK_ID] = '{bookID}'", connection);
+            //SqlCommand command = new SqlCommand($"Delete from Book where [BOOK_ID]='{bookID}'", connection);
 
             if (command.ExecuteNonQuery() > 0)
             {

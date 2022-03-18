@@ -34,13 +34,13 @@
             this.btnInsert = new System.Windows.Forms.Button();
             this.txtAuthor = new System.Windows.Forms.TextBox();
             this.txtBookName = new System.Windows.Forms.TextBox();
-            this.txtBookId = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txtYear = new System.Windows.Forms.MaskedTextBox();
+            this.txtBookId = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // btnExit
@@ -111,14 +111,6 @@
             this.txtBookName.Size = new System.Drawing.Size(162, 21);
             this.txtBookName.TabIndex = 11;
             // 
-            // txtBookId
-            // 
-            this.txtBookId.Location = new System.Drawing.Point(174, 66);
-            this.txtBookId.Margin = new System.Windows.Forms.Padding(2);
-            this.txtBookId.Name = "txtBookId";
-            this.txtBookId.Size = new System.Drawing.Size(162, 21);
-            this.txtBookId.TabIndex = 12;
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -184,11 +176,20 @@
             this.txtYear.TabIndex = 17;
             this.txtYear.ValidatingType = typeof(int);
             // 
+            // txtBookId
+            // 
+            this.txtBookId.Location = new System.Drawing.Point(172, 64);
+            this.txtBookId.Mask = "000";
+            this.txtBookId.Name = "txtBookId";
+            this.txtBookId.Size = new System.Drawing.Size(163, 21);
+            this.txtBookId.TabIndex = 18;
+            // 
             // frmUpdateBook
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(502, 289);
+            this.Controls.Add(this.txtBookId);
             this.Controls.Add(this.txtYear);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnDelete);
@@ -196,7 +197,6 @@
             this.Controls.Add(this.btnInsert);
             this.Controls.Add(this.txtAuthor);
             this.Controls.Add(this.txtBookName);
-            this.Controls.Add(this.txtBookId);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -220,12 +220,12 @@
         private System.Windows.Forms.Button btnInsert;
         private System.Windows.Forms.TextBox txtAuthor;
         private System.Windows.Forms.TextBox txtBookName;
-        private System.Windows.Forms.TextBox txtBookId;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.MaskedTextBox txtYear;
+        private System.Windows.Forms.MaskedTextBox txtBookId;
     }
 }
