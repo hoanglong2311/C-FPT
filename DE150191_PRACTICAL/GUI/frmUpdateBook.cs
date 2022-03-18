@@ -35,15 +35,24 @@ namespace DE150191_PRACTICAL
         private BookAccessBLL bookAccessBll = new BookAccessBLL();
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            if (bookAccessBll.DeleteBook(txtBookId.Text))
+
+
+            try
             {
-                MessageBox.Show("Delete Successfully!");
-                ClearTextBox();
+                if (bookAccessBll.DeleteBook(txtBookId.Text))
+                {
+                    MessageBox.Show("Delete Successfully!");
+                    ClearTextBox();
+                }
+                else
+                {
+                    MessageBox.Show("Can not find to delete!");
+                    ClearTextBox();
+                }
             }
-            else
+            catch (Exception exception)
             {
-                MessageBox.Show("Can not delete!");
-                ClearTextBox();
+                MessageBox.Show("Can not delete!\n"+exception.Message);
             }
         }
 
@@ -57,29 +66,46 @@ namespace DE150191_PRACTICAL
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            if (bookAccessBll.UpdateBook(new Book(txtBookId.Text, txtBookName.Text, txtAuthor.Text, Convert.ToInt32(txtYear.Text))))
+
+
+            try
             {
-                MessageBox.Show("Update Successfully!");
-                ClearTextBox();
+                if (bookAccessBll.UpdateBook(new Book(txtBookId.Text, txtBookName.Text, txtAuthor.Text, Convert.ToInt32(txtYear.Text))))
+                {
+                    MessageBox.Show("Update Successfully!");
+                    ClearTextBox();
+                }
+                else
+                {
+                    MessageBox.Show("Can not Update!");
+                    ClearTextBox();
+                }
             }
-            else
+            catch (Exception exception)
             {
-                MessageBox.Show("Can not Update!");
-                ClearTextBox();
+                MessageBox.Show("Can not Update!\n"+ exception.Message);
             }
         }
 
         private void btnInsert_Click(object sender, EventArgs e)
         {
-            if (bookAccessBll.InsertBook(new Book(txtBookId.Text, txtBookName.Text, txtAuthor.Text, Convert.ToInt32(txtYear.Text))))
+
+            try
             {
-                MessageBox.Show("Insert Successfully!");
-                ClearTextBox();
+                if (bookAccessBll.InsertBook(new Book(txtBookId.Text, txtBookName.Text, txtAuthor.Text, Convert.ToInt32(txtYear.Text))))
+                {
+                    MessageBox.Show("Insert Successfully!");
+                    ClearTextBox();
+                }
+                else
+                {
+                    MessageBox.Show("Can not Insert!");
+                    ClearTextBox();
+                }
             }
-            else
+            catch (Exception exception)
             {
-                MessageBox.Show("Can not Insert!");
-                ClearTextBox();
+                MessageBox.Show("Can not Insert!\n"+ exception.Message);
             }
         }
 
