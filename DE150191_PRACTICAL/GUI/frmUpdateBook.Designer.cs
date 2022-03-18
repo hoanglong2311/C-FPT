@@ -179,7 +179,7 @@
             // txtBookId
             // 
             this.txtBookId.Location = new System.Drawing.Point(172, 64);
-            this.txtBookId.Mask = "000";
+            this.txtBookId.Mask = "B00";
             this.txtBookId.Name = "txtBookId";
             this.txtBookId.Size = new System.Drawing.Size(163, 21);
             this.txtBookId.TabIndex = 18;
