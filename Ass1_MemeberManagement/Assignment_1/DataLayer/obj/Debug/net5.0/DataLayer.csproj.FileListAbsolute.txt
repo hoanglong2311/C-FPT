@@ -1,0 +1,15 @@
+F:\.NET\Assignment_1\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+F:\.NET\Assignment_1\DataLayer\bin\Debug\net5.0\DataLayer.dll
+F:\.NET\Assignment_1\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+F:\.NET\Assignment_1\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+F:\.NET\Assignment_1\DataLayer\bin\Debug\net5.0\BussinessLayer.dll
+F:\.NET\Assignment_1\DataLayer\bin\Debug\net5.0\BussinessLayer.pdb
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CopyComplete
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\DataLayer.dll
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+F:\.NET\Assignment_1\DataLayer\obj\Debug\net5.0\DataLayer.pdb

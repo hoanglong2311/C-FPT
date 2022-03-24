@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "BussinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BussinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BussinessLayer.dll": {}
+        }
+      },
+      "DataLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BussinessLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BussinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../BussinessLayer/BussinessLayer.csproj",
+      "msbuildProject": "../BussinessLayer/BussinessLayer.csproj"
+    },
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataLayer/DataLayer.csproj",
+      "msbuildProject": "../DataLayer/DataLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "BussinessLayer >= 1.0.0",
+      "DataLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\.NET\\Assignment_1\\GUI\\GUI.csproj",
+      "projectName": "GUI",
+      "projectPath": "F:\\.NET\\Assignment_1\\GUI\\GUI.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\.NET\\Assignment_1\\GUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "F:\\.NET\\Assignment_1\\BussinessLayer\\BussinessLayer.csproj": {
+              "projectPath": "F:\\.NET\\Assignment_1\\BussinessLayer\\BussinessLayer.csproj"
+            },
+            "F:\\.NET\\Assignment_1\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "F:\\.NET\\Assignment_1\\DataLayer\\DataLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
