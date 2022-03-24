@@ -1,0 +1,15 @@
+D:\LEARNCODE\Learn Csharp\CS_Lambda\bin\Debug\net6.0\CS_Lambda.exe
+D:\LEARNCODE\Learn Csharp\CS_Lambda\bin\Debug\net6.0\CS_Lambda.deps.json
+D:\LEARNCODE\Learn Csharp\CS_Lambda\bin\Debug\net6.0\CS_Lambda.runtimeconfig.json
+D:\LEARNCODE\Learn Csharp\CS_Lambda\bin\Debug\net6.0\CS_Lambda.dll
+D:\LEARNCODE\Learn Csharp\CS_Lambda\bin\Debug\net6.0\ref\CS_Lambda.dll
+D:\LEARNCODE\Learn Csharp\CS_Lambda\bin\Debug\net6.0\CS_Lambda.pdb
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\CS_Lambda.csproj.AssemblyReference.cache
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\CS_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\CS_Lambda.AssemblyInfoInputs.cache
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\CS_Lambda.AssemblyInfo.cs
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\CS_Lambda.csproj.CoreCompileInputs.cache
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\CS_Lambda.dll
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\ref\CS_Lambda.dll
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\CS_Lambda.pdb
+D:\LEARNCODE\Learn Csharp\CS_Lambda\obj\Debug\net6.0\CS_Lambda.genruntimeconfig.cache

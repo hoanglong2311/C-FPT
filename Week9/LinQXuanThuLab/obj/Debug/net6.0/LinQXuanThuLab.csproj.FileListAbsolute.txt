@@ -1,0 +1,15 @@
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\LinQXuanThuLab.csproj.AssemblyReference.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\LinQXuanThuLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\LinQXuanThuLab.AssemblyInfoInputs.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\LinQXuanThuLab.AssemblyInfo.cs
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\LinQXuanThuLab.csproj.CoreCompileInputs.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\bin\Debug\net6.0\LinQXuanThuLab.exe
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\bin\Debug\net6.0\LinQXuanThuLab.deps.json
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\bin\Debug\net6.0\LinQXuanThuLab.runtimeconfig.json
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\bin\Debug\net6.0\LinQXuanThuLab.dll
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\bin\Debug\net6.0\ref\LinQXuanThuLab.dll
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\bin\Debug\net6.0\LinQXuanThuLab.pdb
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\LinQXuanThuLab.dll
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\ref\LinQXuanThuLab.dll
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\LinQXuanThuLab.pdb
+D:\MY LIFE\LEARNCODE\Learn Csharp\LinQXuanThuLab\obj\Debug\net6.0\LinQXuanThuLab.genruntimeconfig.cache

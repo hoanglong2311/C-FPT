@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_ChuanNet", "Event_ChuanNet\Event_ChuanNet.csproj", "{2C30A5BD-B9DD-440D-B6E9-4F06AA9921CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C30A5BD-B9DD-440D-B6E9-4F06AA9921CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C30A5BD-B9DD-440D-B6E9-4F06AA9921CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C30A5BD-B9DD-440D-B6E9-4F06AA9921CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C30A5BD-B9DD-440D-B6E9-4F06AA9921CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

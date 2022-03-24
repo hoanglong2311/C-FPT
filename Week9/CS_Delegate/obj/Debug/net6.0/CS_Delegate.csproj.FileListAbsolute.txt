@@ -1,0 +1,15 @@
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\CS_Delegate.csproj.AssemblyReference.cache
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\CS_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\CS_Delegate.AssemblyInfoInputs.cache
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\CS_Delegate.AssemblyInfo.cs
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\CS_Delegate.csproj.CoreCompileInputs.cache
+D:\LEARNCODE\Learn Csharp\CS_Delegate\bin\Debug\net6.0\CS_Delegate.exe
+D:\LEARNCODE\Learn Csharp\CS_Delegate\bin\Debug\net6.0\CS_Delegate.deps.json
+D:\LEARNCODE\Learn Csharp\CS_Delegate\bin\Debug\net6.0\CS_Delegate.runtimeconfig.json
+D:\LEARNCODE\Learn Csharp\CS_Delegate\bin\Debug\net6.0\CS_Delegate.dll
+D:\LEARNCODE\Learn Csharp\CS_Delegate\bin\Debug\net6.0\ref\CS_Delegate.dll
+D:\LEARNCODE\Learn Csharp\CS_Delegate\bin\Debug\net6.0\CS_Delegate.pdb
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\CS_Delegate.dll
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\ref\CS_Delegate.dll
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\CS_Delegate.pdb
+D:\LEARNCODE\Learn Csharp\CS_Delegate\obj\Debug\net6.0\CS_Delegate.genruntimeconfig.cache

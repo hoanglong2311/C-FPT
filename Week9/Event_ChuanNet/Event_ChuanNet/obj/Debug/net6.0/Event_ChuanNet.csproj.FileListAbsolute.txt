@@ -1,0 +1,15 @@
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\bin\Debug\net6.0\Event_ChuanNet.exe
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\bin\Debug\net6.0\Event_ChuanNet.deps.json
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\bin\Debug\net6.0\Event_ChuanNet.runtimeconfig.json
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\bin\Debug\net6.0\Event_ChuanNet.dll
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\bin\Debug\net6.0\ref\Event_ChuanNet.dll
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\bin\Debug\net6.0\Event_ChuanNet.pdb
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\Event_ChuanNet.csproj.AssemblyReference.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\Event_ChuanNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\Event_ChuanNet.AssemblyInfoInputs.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\Event_ChuanNet.AssemblyInfo.cs
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\Event_ChuanNet.csproj.CoreCompileInputs.cache
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\Event_ChuanNet.dll
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\ref\Event_ChuanNet.dll
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\Event_ChuanNet.pdb
+D:\MY LIFE\LEARNCODE\Learn Csharp\Event_ChuanNet\Event_ChuanNet\obj\Debug\net6.0\Event_ChuanNet.genruntimeconfig.cache
