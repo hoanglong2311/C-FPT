@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04514af9-df11-4b92-b336-ac4de71e747e": {
+      "ProjectGuid": "04514af9-df11-4b92-b336-ac4de71e747e",
+      "DisplayName": "AutoMobileLibrary",
+      "ColorIndex": 0
+    },
+    "83d1d869-93cd-4acd-bd51-89742940802c": {
+      "ProjectGuid": "83d1d869-93cd-4acd-bd51-89742940802c",
+      "DisplayName": "AutomobileManagement",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
